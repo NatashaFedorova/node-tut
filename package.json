@@ -1,0 +1,25 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatashaFedorova/node-tut.git"
+  },
+  "keywords": [],
+  "author": "NF <dyadyafedor1287@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatashaFedorova/node-tut/issues"
+  },
+  "homepage": "https://github.com/NatashaFedorova/node-tut#readme",
+  "dependencies": {
+    "g": "^2.0.1",
+    "npm": "^8.17.0",
+    "validator": "^13.7.0"
+  }
+}
